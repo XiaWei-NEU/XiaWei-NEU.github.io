@@ -18,7 +18,7 @@ strategies for arciuzing une management orne numan resource in X bank based on t
 the sustainable development of Chinese banks and strengthen their competitiveness in the international financial market.'
 date: 2020-05-31
 venue: 'www.cnki.net'
-paperurl: 'http://XiaWei-NEU.github.io/files/paper1.pdf'
+paperurl: 'https://XiaWei-NEU.github.io/files/paper1.pdf'
 citation: 'Wei Xia. (2020). &quot;X Bank Human Resources Management Digital Transformation Strategy Design.&quot; <i>China's Excellent Master's Thesis Full Text Database</i>. 1(1).'
 ---
 
