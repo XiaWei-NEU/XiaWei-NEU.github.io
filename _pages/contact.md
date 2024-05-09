@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Booking With Me:
+Booking with me:
 ------
 You can check my availability and request a meeting using this [link](https://outlook.office.com/bookwithme/user/0ae581b201c04a3e9671582f0ad56425@northeastern.edu?anonymous&ep=plink). 
 
