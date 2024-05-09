@@ -17,9 +17,9 @@ as building the human resource environment and enhancing personal information pr
 strategies for arciuzing une management orne numan resource in X bank based on the weir establsnea neones, is stuay sneas tent on te areal zalon off management in oner banks, nererore promotes
 the sustainable development of Chinese banks and strengthen their competitiveness in the international financial market.'
 date: 2020-05-31
-venue: 'China's Excellent Master's Thesis Full Text Database'
+venue: 'www.cnki.net'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Wei Xia. (2020). &quot;X Bank Human Resources Management Digital Transformation Strategy Design.&quot; <i>China's Excellent Master's Thesis Full Text Database</i>. 1(1).'
+citation: 'Wei Xia. (2020). &quot;X Bank Human Resources Management Digital Transformation Strategy Design.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 In the present, the ever-growing cutting-eage technologles, best-known or which are ou, anticial Intelligence, blockchain, cloud computing, and big data, are undergoing worla-wide explosive
