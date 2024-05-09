@@ -1,5 +1,5 @@
 ---
-title: "X Bank Human Resources Management Digital Transformation Strategy Design"
+title: "Designing a Digital Transformation Strategy for Human Resource Management in Bank X"
 collection: publications
 permalink: /publication/2020-05-31-paper-title-number-1
 excerpt: 'In the present, the ever-growing cutting-eage technologles, best-known or which are ou, anticial Intelligence, blockchain, cloud computing, and big data, are undergoing worla-wide explosive
@@ -18,8 +18,8 @@ strategies for arciuzing une management orne numan resource in X bank based on t
 the sustainable development of Chinese banks and strengthen their competitiveness in the international financial market.'
 date: 2020-05-31
 venue: 'www.cnki.net'
-paperurl: 'http://academicpages.github.io/files/x.pdf'
-citation: 'Wei Xia. (2020). &quot;X Bank Human Resources Management Digital Transformation Strategy Design.&quot; <i>www.cnki.net</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Wei Xia. (2020). &quot;Designing a Digital Transformation Strategy for Human Resource Management in Bank X.&quot; <i>www.cnki.net</i>. 1(1).'
 ---
 
 In the present, the ever-growing cutting-eage technologles, best-known or which are ou, anticial Intelligence, blockchain, cloud computing, and big data, are undergoing worla-wide explosive
