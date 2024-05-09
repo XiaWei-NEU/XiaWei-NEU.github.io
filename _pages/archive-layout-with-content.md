@@ -153,7 +153,7 @@ This tag styles large blocks of code.
 
 ### Quote Tag
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+<q>Developers, developers, developers&#8230;</q> &#8211;Wei Xia
 
 ### Strong Tag
 
