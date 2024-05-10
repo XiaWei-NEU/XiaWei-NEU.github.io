@@ -45,7 +45,7 @@ monitoring system for the back-end monitors to provide a real-time alarm.
   * The project divided 80% of the data into training sets and set a random seed value of 2. The prediction accuracy
 of the model reached 0.96.
 
-* Summer 2018: Investment Analysis System
+* Fall 2018: Investment Analysis System
   * Crawled industry data from the internet, perform analysis and forecasting on AWS and GCP using Numpy,
 Pandas, Scipy, and Sklearn with Time Series Forecast, ARR, MRR, Decision Tree, etc. Organized dashboards with
 Google Analytics and Tableau to visualize data and provide expert investment recommendations to support
@@ -56,7 +56,7 @@ Skills
 * System Platform – GCP, AWS, z/OS, AIX, Linux, Microsoft Windows Server, ESXI, Citrix Hypervisor
 * Database Management – Teradata, SAP Sybase IQ, DB2, Microsoft SQL Server, Oracle, MySQL, Da Meng,
 HBase, MongoDB, DynamoDB, Redis, Elastic Search
-* Programming & Scripting – Java, Python, C, Cobol, Perl, Bash, PeopleSoft code, SAS, SPSS, SQL, PHP, HTML,
+* Programming – Java, Python, C, Cobol, Perl, Bash, PeopleSoft code, SAS, SPSS, SQL, PHP, HTML,
 CSS, JavaScript, React, Vue
 
 Publications
