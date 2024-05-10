@@ -54,8 +54,6 @@ investment decisions.
 Skills
 ======
 * System Platform – GCP, AWS, z/OS, AIX, Linux, Microsoft Windows Server, ESXI, Citrix Hypervisor
-* Database Management – Teradata, SAP Sybase IQ, DB2, Microsoft SQL Server, Oracle, MySQL, Da Meng,
-HBase, MongoDB, DynamoDB, Redis, Elastic Search
 * Programming – Java, Python, C, Cobol, Perl, Bash, PeopleSoft code, SAS, SPSS, SQL, PHP, HTML,
 CSS, JavaScript, React, Vue
 
