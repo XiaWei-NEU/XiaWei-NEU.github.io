@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hero-portrait.png"
+  avatar           : "hero-portrait.webp"
   name             : "Wei Xia"
   pronouns         : "Master of Computer Science" # example: "she/her"  
   bio              : ""
