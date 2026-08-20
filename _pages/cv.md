@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Northeastern University
-* M.S. in International Business Administration, UMSL
-* B.S. in Finance, Sourtheast University
 
 Academic experience
 ======
