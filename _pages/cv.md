@@ -52,8 +52,7 @@ investment decisions.
 Skills
 ======
 * System Platform – GCP, AWS, z/OS, AIX, Linux, Microsoft Windows Server, ESXI, Citrix Hypervisor
-* Programming – Java, Python, C, Cobol, Perl, Bash, PeopleSoft code, SAS, SPSS, SQL, PHP, HTML,
-CSS, JavaScript, React, Vue
+* Programming – Java, Python, C/C++, Rust, Go, JavaScript, React, SQL
 
 Publications
 ======
